@@ -1,0 +1,7 @@
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\bin\Debug\5EV4DemoGit.exe.config
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\bin\Debug\5EV4DemoGit.exe
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\bin\Debug\5EV4DemoGit.pdb
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\obj\Debug\5EV4DemoGit.csproj.AssemblyReference.cache
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\obj\Debug\5EV4DemoGit.csproj.CoreCompileInputs.cache
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\obj\Debug\5EV4DemoGit.exe
+E:\BE SEM 5 - 2026-2027\5EV4\B\5EV4DemoGit\obj\Debug\5EV4DemoGit.pdb
