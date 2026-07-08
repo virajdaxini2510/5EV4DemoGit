@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 
 namespace _5EV4DemoGit
 {
+    /// <summary>
+    /// Class student to demonstrate the concept of classes and objects in C#.
+    /// </summary>
     class Student
     {
-        // Data Members
+        /// <summary>
+        /// Public fields to store student details: Roll Number, Name, and Course.
+        /// </summary>
         public int RollNo;
         public string Name;
         public string Course;
 
-        // Method 1 - Accept Student Details
+        /// <summary>
+        /// Gets student data from user input and assigns it to the respective fields.
+        /// </summary>
         public void GetStudentData()
         {
             Console.WriteLine("Enter Roll Number : ");
@@ -26,7 +33,9 @@ namespace _5EV4DemoGit
             Course = Console.ReadLine();
         }
 
-        // Method 2 - Display Student Details
+        /// <summary>
+        /// Displays the student data stored in the fields to the console.
+        /// </summary>
         public void DisplayStudentData()
         {
             Console.WriteLine("\n===== Student Details =====");
@@ -35,7 +44,10 @@ namespace _5EV4DemoGit
             Console.WriteLine("Course      : " + Course);
         }
 
-        // Main Method
+        /// <summary>
+        /// Main method to create a Student object, get student data, and display it.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Student s = new Student();
